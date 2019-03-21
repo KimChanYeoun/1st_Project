@@ -1,0 +1,43 @@
+﻿footer {
+    overflow: hidden;
+    width: 1850px;
+    height: 140px;
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+
+    footer .office_logo {
+        width: 30%;
+        height: 50%;
+        border: 1px solid gray;
+        float: left;
+        text-align: center;
+        line-height: 100px;
+    }
+
+    footer .office_address {
+        width: 47%;
+        height: 50%;
+        border: 1px solid gray;
+        float: left;
+        text-align: center;
+        line-height: 100px;
+    }
+
+    footer .Partners {
+        width: 22.67%;
+        height: 50%;
+        line-height: 70px;
+        border: 1px solid gray;
+        float: right;
+        text-align: center;
+    }
+
+    footer .copyright {
+        clear: both;
+        text-align: center;
+        height: 70px;
+        line-height: 70px;
+        color: white;
+        background-color: black;
+    }

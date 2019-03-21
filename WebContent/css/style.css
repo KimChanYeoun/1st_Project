@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+#content {
+	width: 800px;
+	height: 550px;
+	margin: 100px auto 0px;
+}
+
+#content tr td p{
+	width:300px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-left: 15px;
+}
+
+.logo{
+	text-align: center;
+}
+
+table {
+	border: 2px solid pink;
+	width: 100%;
+	margin: 10px auto;
+}
+
+table tr {
+	background-color: lightgray;
+}
+
+table tr:hover {
+	cursor: pointer;
+}
+
+td, th {
+	text-align: center;
+	padding: 5px;
+}
+
+caption {
+	font-size: 25px;
+	padding: 10px;
+}
+
+h2 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+.left {
+	text-align: left;
+}
+
+.paging {
+	text-align: center;
+}
+
+b {
+	color: red;
+}
+
+table tr td img{ 
+	width:200px;
+}

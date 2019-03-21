@@ -1,0 +1,46 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+ul, li {
+    list-style: none;
+}
+a{
+    text-decoration:none;
+    text-align:center;
+}
+
+header {
+    width: 100%;
+    position: relative;
+    font-family: 'Nanum Brush Script', cursive;
+}
+
+#headtop {
+    overflow: hidden;
+    width: 1500px;
+    margin: 0 auto;
+    font-size:2em;
+}
+
+    #headtop .logo {
+        float: left;
+    }
+    #headtop .logo a img{
+        width:80px;
+        height:33px;
+    }
+
+    #headtop .topmenu {
+        float: right;
+    }
+
+        #headtop .topmenu ul {
+            overflow: hidden;
+        }
+
+            #headtop .topmenu ul li {
+                float: left;
+                margin-left:50px;
+            }

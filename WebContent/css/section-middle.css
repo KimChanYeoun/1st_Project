@@ -1,0 +1,44 @@
+﻿#secmiddle {
+    width: 100%;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid gray;
+    clear: both;
+    box-sizing: border-box;
+}
+
+#secmiddle table{
+	width: 100%;
+	height: 300px;
+}
+
+#secmiddle table tr{
+	height: 50px;
+}
+
+#secmiddle tr:first-child th{
+	padding: 15px 0 0 235px;
+	font-size: 1.3em;
+}
+
+#secmiddle tr:first-child td{
+	padding: 25px 0 0 120px;
+}
+
+#secmiddle tr td{
+	width: 20%;
+	text-align: center;
+}
+
+#secmiddle tr td p{
+	width:200px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-left: 15px;
+}
+
+#secmiddle tr td img{ 
+	width:200px;
+}
+
