@@ -1,17 +1,23 @@
-±èÂù³â °³ÀÎ ÇÁ·ÎÁ§Æ® ¼Ò½ºÆÄÀÏ ÀÔ´Ï´Ù.
+ê¹€ì°¬ë…„ ê°œì¸ í”„ë¡œì íŠ¸ ì†ŒìŠ¤íŒŒì¼ ì…ë‹ˆë‹¤.
 
-ÇÁ·ÎÁ§Æ®¸í : P.T.G.S (prototype game site)
+í”„ë¡œì íŠ¸ëª… : P.T.G.S (prototype game site)
 
-Âü¿©ÀÎ¿ø	: 1¸í
+ì°¸ì—¬ì¸ì›	: 1ëª…
 
-±â°£	: 2019.03.06 ~ 2019.03.15
+ê¸°ê°„	: 2019.03.06 ~ 2019.03.15
 
-°³¹ßÈ¯°æ	OS	Windows 7 Professional K
+ê°œë°œí™˜ê²½	OS	Windows 7 Professional K
+
 	WAS	Apache Tomcat 8.5
+	
 	DBMS	Oracle 11g Express Edition
+	
 	Language	Java Platform 8 , JSP & Servlet
+	
 	Model	MVC (Model 2)
+	
 	Web	HTML5, CSS/CSS3, JavaScript
-	Tool	Eclipse IDE for Java EE Developers, Sqldeveloper
-eXERD (E-R Modeling Tool), Start UML
+	
+	Tool	Eclipse IDE for Java EE Developers, Sqldeveloper, eXERD (E-R Modeling Tool), Start UML
+	
 	Open Source	jQuery v3.2.1, jQuery UI v.1.12.1, cos-26Dec2008
